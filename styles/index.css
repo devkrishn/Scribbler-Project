@@ -1,4 +1,13 @@
+body {
+  background-image: url('../images/background.jpg');
+  background-repeat: no-repeat; 
+  background-size: 100% !important;
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+  display: block;
 
+}
 .modal-bg{
 	position: fixed;
 	top: 0;
