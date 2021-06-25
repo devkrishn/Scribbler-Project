@@ -27,7 +27,7 @@ body {
 	padding: 20px;
 	border: 1px solid black;
 }
- .close {
+ .close,.close1 {
    color: grey;
    float: right;
    font-size: 28px;
@@ -68,7 +68,7 @@ body {
     text-align: center;
     position: relative;
     top: 10px;
-    left: 2%;
+    left: 1%;
 }
 .nm{
 	text-align: center;
