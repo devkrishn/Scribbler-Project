@@ -21,3 +21,15 @@
 	margin-top: 0;
 	margin: 0px 0px 0px 15px;
 }
+.midbuttons{
+	background-color: #ffd73f;
+	color: black;
+	padding: 10px;
+	font-weight: bold;
+	cursor: pointer;
+}
+.postb{
+	position: fixed;
+	top: 48%;
+	left: 44%;
+}

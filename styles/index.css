@@ -1,8 +1,9 @@
 body {
   background-image: url('../images/background.jpg');
   background-repeat: no-repeat; 
-  background-size: 100% !important;
+  background-size: 100% cover!important;
   background-position: center;
+  margin: 0 !important;
   background-size: cover;
   background-attachment: fixed;
   display: block;
@@ -27,7 +28,7 @@ body {
 	padding: 20px;
 	border: 1px solid black;
 }
- .close,.close1 {
+ .close,.close1,.close2 {
    color: grey;
    float: right;
    font-size: 28px;
@@ -77,4 +78,29 @@ body {
 #redirect{
 	color: blue;
 	cursor: pointer;
+}
+#content{
+	height: 400px;
+}
+#md3{
+	margin-left: 5%;
+}
+.modal-content2{
+	margin: 15% auto;
+	font-family: sans-serif;
+	background-color: white;
+	padding: 20px;
+	border: 1px solid black;
+	width: 80%;
+}
+#msp{
+	background-color: #50C878;
+	color: white;
+	font-family: sans-serif;
+	cursor: pointer;
+	padding: 10px;
+    text-align: center;
+    position: relative;
+    top: 10px;
+    left: 50%;
 }
