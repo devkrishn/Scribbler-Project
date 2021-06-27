@@ -1,5 +1,5 @@
 .logo{
-	font-family: cursive;
+	font-family: 'satisfy',cursive;
 	font-size: 50px;
 	color:  blue;
 	margin: 10px 10px 10px 10px;
@@ -17,7 +17,7 @@
 	font-family: sans-serif;
 }
 .belowtext{
-	font-family: cursive;
+	font-family: 'satisfy',cursive;
 	margin-top: 0;
 	margin: 0px 0px 0px 15px;
 }
