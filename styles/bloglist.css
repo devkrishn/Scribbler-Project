@@ -98,6 +98,7 @@ body{
 .trash img{
 	height: 20px;
 	width: 30px;
+	cursor: pointer;
 }
 .pleft{
 	width: 20%;
@@ -151,6 +152,7 @@ body{
 	padding: 10px 15px;
 	width: 21%;
 	left: 30px;
+	cursor: pointer;
 }
 #no{
 	background-color: green;
@@ -159,6 +161,7 @@ body{
 	padding: 10px 15px;
 	width: 21%;
 	right: 30px;
+	cursor: pointer;
 }
 #h2{
 	font-family: sans-serif;
