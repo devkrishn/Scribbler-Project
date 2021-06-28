@@ -13,20 +13,19 @@ editButton.onclick = function() {
   document.getElementById("blog-title").contentEditable = "true";
 
 }
-
 saveButton.onclick = function() {
   editButton.style.display = "block";
   saveButton.style.display = "none";
   document.getElementById("blog-content-text").contentEditable = "false";
   document.getElementById("blog-title").contentEditable = "false";
 }
-
+//if a person will like the post then total number will be counted
 likeButton.onclick = function() {
   numOfLikes++;
   document.getElementById("no-of-likes").innerHTML= numOfLikes +" person(s) like this !";
   document.getElementById("no-of-likes").contentEditable = "false";
 }
-
+//for writing the comment of the post
 addCommentButton.onclick = function() {
   var newComment = document.createElement("div");
   var commentText = document.getElementById("comment-text").value;

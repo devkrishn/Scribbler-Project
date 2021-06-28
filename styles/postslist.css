@@ -64,6 +64,7 @@
 	text-align: center;
 	margin-top: 15px;
 }
+/*   ---------------For redirecting sign in to sign up modal -------------------  */
 #redirect{
 	color: blue;
 	cursor: pointer;
@@ -159,7 +160,6 @@
 }
 
 .save-button button{
-
   display: none;
   background-color: #ff4d4d;
   border: none;

@@ -1,5 +1,6 @@
+/*   ----------------  Design code for scribbler logo ---------------   */
 .logo{
-	font-family: 'satisfy',cursive;
+	font-family: 'satisfy', cursive;
 	font-size: 50px;
 	color:  blue;
 	margin: 10px 10px 10px 10px;
@@ -16,11 +17,13 @@
 	margin: 10px 10px 0px 0px;
 	font-family: sans-serif;
 }
+/*   ----------------  Design code for title below scribbler ---------------   */
 .belowtext{
 	font-family: 'satisfy',cursive;
 	margin-top: 0;
 	margin: 0px 0px 0px 15px;
 }
+/*   ----------------  Design code for create and all post button ---------------   */
 .midbuttons{
 	background-color: #ffd73f;
 	color: black;

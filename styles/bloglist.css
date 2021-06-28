@@ -131,6 +131,7 @@ body{
 .pdisplay{
 	height: 100px;
     margin-bottom: 0 !important;
+    overflow: hidden;
 }
  #bars{
     position:absolute;
